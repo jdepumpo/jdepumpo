@@ -1,8 +1,8 @@
 Hi there, I'm Joe, a Full-Stack Web Developer.
 
 ### Connect with Me
-![My Portfolio](https://img.shields.io/badge/-joe.depumpo.com-orange?&logo=firefox-browser&logoColor=fff&style=for-the-badge)(https://joe.depumpo.com)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=fff&style=for-the-badge)(https://go.jfd.is/linkedin)
+[![My Portfolio](https://img.shields.io/badge/-joe.depumpo.com-orange?&logo=firefox-browser&logoColor=fff&style=for-the-badge)](https://joe.depumpo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=fff&style=for-the-badge)](https://go.jfd.is/linkedin)
 
 ---
 ### Languages
