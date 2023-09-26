@@ -22,5 +22,4 @@ Hi there, I'm Joe, a Full-Stack Web Developer.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdepumpo&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdepumpo&layout=compact&theme=moltack&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdepumpo&layout=compact&theme=moltack&hide_border=true" />
