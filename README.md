@@ -1,4 +1,4 @@
-Hi there, I'm Joe, a Full-Stack Web Developer.
+Hi there, I'm Joseph, a Full-Stack Developer.
 
 ### Connect with Me
 [![My Portfolio](https://img.shields.io/badge/-joe.depumpo.com-orange?&logo=firefox-browser&logoColor=fff&style=for-the-badge)](https://joe.depumpo.com)
